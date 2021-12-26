@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.1.0"
+version       = "0.1.1"
 author        = "David Krause"
 description   = "a state machine with transition"
 license       = "MIT"
